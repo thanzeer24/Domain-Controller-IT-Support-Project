@@ -1,4 +1,4 @@
-## 6. Scenario 2: Folder Access Request
+## Ticket 2: Folder Access Request
 
 
 ---

@@ -215,16 +215,16 @@ Figure_21:The same HR user trying to open the Finance folder and getting "Window
 ---
 
 
-<img width="1633" height="813" alt="22" src="https://github.com/user-attachments/assets/abd9fd89-a87b-4f82-8678-309350850734" />
-
-
-Figure_22:Jira Service Management, "Support" project, Queue Overview. This is where IT staff see and manage tickets raised by users.
+## 5. Scenario 1: Password Reset
 
 
 ---
 
 
-## 5. Scenario 1: Password Reset
+<img width="1633" height="813" alt="22" src="https://github.com/user-attachments/assets/abd9fd89-a87b-4f82-8678-309350850734" />
+
+
+Figure_22:Jira Service Management, "Support" project, Queue Overview. This is where IT staff see and manage tickets raised by users.
 
 
 ---

@@ -9,6 +9,12 @@
 ---
 
 
+HR user forgot old password and raised a ticket in Jira to change password. IT user assigned the ticket to himself, went to Active Directory on Domain Controller, found the  HR user , reset the password, and shared the temporary password securely via other messaging. HR logged in with the temporary password and set a new password. Ticket was then closed as resolved.
+
+
+---
+
+
 <img width="1633" height="813" alt="22" src="https://github.com/user-attachments/assets/abd9fd89-a87b-4f82-8678-309350850734" />
 
 

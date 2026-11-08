@@ -1,4 +1,4 @@
-## 7. Scenario 3: Software Installation with Remote Support
+##  Ticket 3: Software Installation with Remote Support
 
 
 ---

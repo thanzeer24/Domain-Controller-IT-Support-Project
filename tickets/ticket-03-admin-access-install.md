@@ -109,4 +109,4 @@ Figure_48:HR user opens Notepad++ and the dashboard loads, confirming the instal
 
 
 
-Figure_48:HR user opens Notepad++ and the dashboard loads, confirming the install worked.
+

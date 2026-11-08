@@ -1,5 +1,15 @@
 # Domain-Controller-IT-Support-Project
 Windows Server Active Directory home lab with Group Policy, file share permissions, and a Jira Service Management helpdesk workflow with TeamViewer remote support.
+Includes detailed solved tickets with screenshots in Tickets folder.
+
+---
+
+
+## Table of Contents
+- [Lab Environment](#lab-environment)
+- [Active Directory Structure](#active-directory-structure)
+- [Group Policies](#group-policies)
+- [File Sharing and Permissions](#file-sharing-and-permissions)
 
 
 ---
